@@ -11,3 +11,8 @@ A SQL analysis of San Francisco's public building permits dataset, exploring how
 A methodology for linking student survey records across multiple collection periods using fuzzy string matching, when no unique identifier is available.
 
 [View project](https://github.com/loquresh/student-record-matching)
+
+## Netflix Movie Rating Analysis
+An analysis of movie rating patterns using matrix factorization, K-Means clustering, and PCA to predict missing ratings and explore groups of similar movies.
+
+[View project](https://github.com/loquresh/netflix-recommender)
