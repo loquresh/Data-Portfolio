@@ -2,8 +2,6 @@
 
 I am a data analyst with experience in evaluation, reporting, database design, and data modeling. I have a strong foundation in statistics and mathematics, and I've applied it to data science and analytics problems in the nonprofit sector, from predictive modeling to program evaluation. This repository showcases a selection of projects and problems I've tackled. 
 
-## Tools
-
 **Languages:** SQL, R, Python
 
 **Methods:** Survey design and analysis, regression, causal inference, hypothesis testing, classification and prediction, dimensionality reduction (PCA), bootstrapping
