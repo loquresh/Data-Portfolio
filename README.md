@@ -16,6 +16,12 @@ A methodology for linking student survey records across multiple collection peri
 
 [View project](https://github.com/loquresh/student-record-matching)
 
+## MNIST Classification and Dimensionality Reduction
+Comparing classifiers on MNIST, visualizing digits with PCA and t-SNE, and generating new images with a smooth bootstrap. This served as a final project for a graduate course in Statistical Methods in Machine Learning.
+
+[View project](https://github.com/loquresh/mnist-classification-and-dimensionality-reduction)
+
+
 ## Netflix Movie Rating Analysis
 An analysis of movie rating patterns using matrix factorization, K-Means clustering, and PCA to predict missing ratings and explore groups of similar movies.
 
