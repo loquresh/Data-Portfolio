@@ -5,7 +5,7 @@ I am a data analyst with experience in evaluation, reporting, database design, a
 ## Tools
 
 **Languages:** SQL, R, Python
-**Analysis & Visualization:** Excel, Tableau, ggplot2, Matplotlib
+
 **Methods:** Survey design and analysis, regression, causal inference, hypothesis testing, classification and prediction, dimensionality reduction (PCA), bootstrapping
 
 ## SF Building Permits Analysis
